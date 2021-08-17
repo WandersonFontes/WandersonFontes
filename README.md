@@ -1,3 +1,6 @@
+#H1 Hi, I’m @WandersonFontes
+![alt text][logo]
+
 - 👋 Hi, I’m @WandersonFontes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,4 +12,4 @@ WandersonFontes/WandersonFontes is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src"https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"> 
+[logo]: https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif "Hello Word!"
