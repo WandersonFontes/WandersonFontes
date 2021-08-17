@@ -1,4 +1,4 @@
-# [alt text][logo] Hi, I’m Wanderson Fontes !
+#  Hi, I’m Wanderson Fontes! :wave::grin:
 
 - 👋 Hi, I’m @WandersonFontes
 - 👀 I’m interested in ...
