@@ -1,6 +1,5 @@
-# Hi, I’m Wanderson Fontes ![alt text][logo]
+# [alt text][logo] Hi, I’m Wanderson Fontes !
 
-<img src="https://your-image-url.type" width="100" height="100">
 - 👋 Hi, I’m @WandersonFontes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
