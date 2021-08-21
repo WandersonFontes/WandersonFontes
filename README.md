@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+about+technology!;Pytonist;Problem+Solver!;Bug+Annihilator;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+about+technology!;Pythonist;Problem+Solver!;Bug+Annihilator;)
 #  Hi, I’m [Wanderson Fontes](https://www.linkedin.com/in/wanderson-fontes-887611154/) !:wave::grin:
 >I'm a **Web Developer**, Python language enthusiast, I'm always willing to learn new things, develop my skills and seek to constantly evolve as a person and as a professional. I'm a guy passionate about what I do and I love solving real problems with technology.
 
