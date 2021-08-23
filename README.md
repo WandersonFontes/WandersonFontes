@@ -5,6 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandersonfontes&hide=contribs,prs&show_icons=true&theme=radical)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wandersonfontes&theme=radical)](https://git.io/streak-stats)-->
+![CodeWars](https://www.codewars.com/users/WanDev/badges/large)
 
 # Work
 ### :sparkles: Programming languages
